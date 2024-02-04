@@ -1,2 +1,2 @@
 # Bank-analystics
-Bank analytics is data analysis of the  customer loan data of the bank
+Bank analytics is data analysis of the  customer loan data of the bank 
