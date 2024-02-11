@@ -1,4 +1,4 @@
-# Bank-analystics
+# Bank-analytics
 
 *Bank analytics is a finance domain data analysis project in which loan data of the customers of the bank is analysed inorder to provide the bank with the required insights about their customers and to suggest the areas of loan offering which needs the attention and imrovements.
 *Dataset consisting of the various informations related to the customers like customerid,loan amount,account status ,purpose etc with over 35k+ records have been utilized for this analysis
